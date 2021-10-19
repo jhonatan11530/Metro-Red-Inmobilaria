@@ -1,0 +1,59 @@
+[15-Oct-2021 16:54:17 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 16:54:18 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 16:54:30 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:34 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:36 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:36 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:36 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:36 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:37 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:37 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:37 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:37 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:38 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:38 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:38 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:38 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:39 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:39 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:49 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:50 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:29:50 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[15-Oct-2021 18:36:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on bool in /home/httpmetr/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:281
+Stack trace:
+#0 /home/httpmetr/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(162): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 /home/httpmetr/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 /home/httpmetr/public_html/wp-includes/class-wp-hook.php(303): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 /home/httpmetr/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#5 /home/httpmetr/pu in /home/httpmetr/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 281
+[18-Oct-2021 01:02:59 UTC] PHP Notice:  Undefined index: requires in /home/httpmetr/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 150
+[18-Oct-2021 01:02:59 UTC] PHP Notice:  Undefined index: tested in /home/httpmetr/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 151
+[18-Oct-2021 01:02:59 UTC] PHP Notice:  Undefined index: new_version in /home/httpmetr/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 153
+[18-Oct-2021 01:02:59 UTC] PHP Notice:  Undefined index: last_updated in /home/httpmetr/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 154
+[18-Oct-2021 01:02:59 UTC] PHP Notice:  Undefined index: download_link in /home/httpmetr/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 155
+[18-Oct-2021 01:02:59 UTC] PHP Notice:  Undefined index: sections in /home/httpmetr/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 161
+[18-Oct-2021 01:20:52 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[18-Oct-2021 01:20:54 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[18-Oct-2021 01:20:54 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[18-Oct-2021 01:28:14 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[18-Oct-2021 01:28:15 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[18-Oct-2021 01:28:15 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[18-Oct-2021 01:32:13 UTC] PHP Notice:  Undefined index: requires in /home/httpmetr/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 65
+[18-Oct-2021 01:32:13 UTC] PHP Notice:  Undefined index: new_version in /home/httpmetr/public_html/wp-content/plugins/elementor-pro/license/updater.php on line 75
+[18-Oct-2021 01:32:36 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[18-Oct-2021 01:32:37 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 06:46:00 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 06:52:31 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 06:52:33 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 06:52:33 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 07:29:56 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 07:29:58 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 07:29:59 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 07:29:59 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 07:34:30 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-content/plugins/wp-mail-smtp/src/Admin/PluginsInstallUpgrader.php on line 423
+[19-Oct-2021 16:07:47 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 16:07:48 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 16:07:48 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 16:07:49 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471
+[19-Oct-2021 16:07:49 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/httpmetr/public_html/wp-admin/includes/class-wp-upgrader.php on line 471

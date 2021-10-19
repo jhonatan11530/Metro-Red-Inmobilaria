@@ -1,0 +1,1133 @@
+[2021-10-03 22:39:22 : INFO] - Re_Smush_It_Task with attachment ID : 957, autocreated on : October 03, 2021 10:39:22 
+[2021-10-03 22:44:24 : INFO] - 
+ 
+[2021-10-03 22:44:24 : INFO] - Header for logs at time:  Sun, 03 Oct 2021 22:44:24 +0000 on https://prueba.inardek.com 
+[2021-10-03 22:44:24 : INFO] - WP: 5.8.1 
+[2021-10-03 22:44:24 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-03 22:44:24 : INFO] - MySQL: 8.0.26 
+[2021-10-03 22:44:24 : INFO] - WPLANG: es_CO 
+[2021-10-03 22:44:24 : INFO] - Server: LiteSpeed 
+[2021-10-03 22:44:24 : INFO] - Outbound connections: N 
+[2021-10-03 22:44:24 : INFO] - safe_mode: 0 
+[2021-10-03 22:44:24 : INFO] - max_execution_time: 30 
+[2021-10-03 22:44:24 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-03 22:44:24 : INFO] - multisite: N 
+[2021-10-03 22:44:24 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-03 22:44:24 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-03 22:44:24 : INFO] - Set semaphore last lock (smush) time to 2021-10-03 22:44:24 
+[2021-10-03 22:44:24 : INFO] - Semaphore lock (smush) complete 
+[2021-10-03 22:44:24 : INFO] - Processing task with ID : 150, and type 'smush' 
+[2021-10-03 22:44:24 : INFO] - Re_Smush_It_Task with attachment ID : 957, autocreated on : October 03, 2021 10:39:22 
+[2021-10-03 22:44:24 : INFO] - 95 
+[2021-10-03 22:44:25 : INFO] - Backing up the original image - 2021/10/Sin-titulo-1-updraft-pre-smush-original.png 
+[2021-10-03 22:44:25 : INFO] - Re_Smush_It_Task with attachment ID : 957, autocreated on : October 03, 2021 10:39:22 
+[2021-10-03 22:44:25 : INFO] - 95 
+[2021-10-03 22:44:26 : INFO] - Re_Smush_It_Task with attachment ID : 957, autocreated on : October 03, 2021 10:39:22 
+[2021-10-03 22:44:26 : INFO] - 95 
+[2021-10-03 22:44:26 : INFO] - Re_Smush_It_Task with attachment ID : 957, autocreated on : October 03, 2021 10:39:22 
+[2021-10-03 22:44:26 : INFO] - 95 
+[2021-10-03 22:44:27 : INFO] - Re_Smush_It_Task with attachment ID : 957, autocreated on : October 03, 2021 10:39:22 
+[2021-10-03 22:44:27 : INFO] - 95 
+[2021-10-03 22:44:27 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/Sin-titulo-1.png.El archivo ha sido comprimido de 7.78 KB a 4.21 KB ahorrando un 45.86 por ciento utilizando WP-Optimize 
+[2021-10-03 22:44:27 : INFO] - Completed processing task with ID : 150, and type 'smush' 
+[2021-10-03 22:44:27 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-03 22:44:27 : INFO] - Semaphore (smush) unlocked 
+[2021-10-03 22:44:27 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-03 22:44:27 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-03 22:44:27 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-03 22:54:30 : INFO] - 
+ 
+[2021-10-03 22:54:30 : INFO] - Header for logs at time:  Sun, 03 Oct 2021 22:54:30 +0000 on https://prueba.inardek.com 
+[2021-10-03 22:54:30 : INFO] - WP: 5.8.1 
+[2021-10-03 22:54:30 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-03 22:54:30 : INFO] - MySQL: 8.0.26 
+[2021-10-03 22:54:30 : INFO] - WPLANG: es_CO 
+[2021-10-03 22:54:30 : INFO] - Server: LiteSpeed 
+[2021-10-03 22:54:30 : INFO] - Outbound connections: N 
+[2021-10-03 22:54:30 : INFO] - safe_mode: 0 
+[2021-10-03 22:54:30 : INFO] - max_execution_time: 30 
+[2021-10-03 22:54:30 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-03 22:54:30 : INFO] - multisite: N 
+[2021-10-03 22:54:30 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-03 22:54:30 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-03 22:55:55 : INFO] - Re_Smush_It_Task with attachment ID : 959, autocreated on : October 03, 2021 10:55:55 
+[2021-10-03 23:01:42 : INFO] - 
+ 
+[2021-10-03 23:01:42 : INFO] - Header for logs at time:  Sun, 03 Oct 2021 23:01:42 +0000 on https://prueba.inardek.com 
+[2021-10-03 23:01:42 : INFO] - WP: 5.8.1 
+[2021-10-03 23:01:42 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-03 23:01:42 : INFO] - MySQL: 8.0.26 
+[2021-10-03 23:01:42 : INFO] - WPLANG: es_CO 
+[2021-10-03 23:01:42 : INFO] - Server: LiteSpeed 
+[2021-10-03 23:01:42 : INFO] - Outbound connections: N 
+[2021-10-03 23:01:42 : INFO] - safe_mode: 0 
+[2021-10-03 23:01:42 : INFO] - max_execution_time: 30 
+[2021-10-03 23:01:42 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-03 23:01:42 : INFO] - multisite: N 
+[2021-10-03 23:01:42 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-03 23:01:42 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-03 23:01:42 : INFO] - Set semaphore last lock (smush) time to 2021-10-03 23:01:42 
+[2021-10-03 23:01:42 : INFO] - Semaphore lock (smush) complete 
+[2021-10-03 23:01:42 : INFO] - Processing task with ID : 151, and type 'smush' 
+[2021-10-03 23:01:42 : INFO] - Re_Smush_It_Task with attachment ID : 959, autocreated on : October 03, 2021 10:55:55 
+[2021-10-03 23:01:42 : INFO] - 95 
+[2021-10-03 23:01:43 : INFO] - Backing up the original image - 2021/10/Sin-titulo-1-1-updraft-pre-smush-original.png 
+[2021-10-03 23:01:43 : INFO] - Re_Smush_It_Task with attachment ID : 959, autocreated on : October 03, 2021 10:55:55 
+[2021-10-03 23:01:43 : INFO] - 95 
+[2021-10-03 23:01:44 : INFO] - Re_Smush_It_Task with attachment ID : 959, autocreated on : October 03, 2021 10:55:55 
+[2021-10-03 23:01:44 : INFO] - 95 
+[2021-10-03 23:01:46 : INFO] - Re_Smush_It_Task with attachment ID : 959, autocreated on : October 03, 2021 10:55:55 
+[2021-10-03 23:01:46 : INFO] - 95 
+[2021-10-03 23:01:46 : INFO] - Re_Smush_It_Task with attachment ID : 959, autocreated on : October 03, 2021 10:55:55 
+[2021-10-03 23:01:46 : INFO] - 95 
+[2021-10-03 23:01:48 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/Sin-titulo-1-1.png.El archivo ha sido comprimido de 264.10 KB a 115.32 KB ahorrando un 56.33 por ciento utilizando WP-Optimize 
+[2021-10-03 23:01:48 : INFO] - Completed processing task with ID : 151, and type 'smush' 
+[2021-10-03 23:01:48 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-03 23:01:48 : INFO] - Semaphore (smush) unlocked 
+[2021-10-03 23:01:48 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-03 23:01:48 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-03 23:01:48 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-03 23:10:20 : INFO] - Re_Smush_It_Task with attachment ID : 966, autocreated on : October 03, 2021 11:10:20 
+[2021-10-03 23:12:07 : INFO] - 
+ 
+[2021-10-03 23:12:07 : INFO] - Header for logs at time:  Sun, 03 Oct 2021 23:12:07 +0000 on https://prueba.inardek.com 
+[2021-10-03 23:12:07 : INFO] - WP: 5.8.1 
+[2021-10-03 23:12:07 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-03 23:12:07 : INFO] - MySQL: 8.0.26 
+[2021-10-03 23:12:07 : INFO] - WPLANG: es_CO 
+[2021-10-03 23:12:07 : INFO] - Server: LiteSpeed 
+[2021-10-03 23:12:07 : INFO] - Outbound connections: N 
+[2021-10-03 23:12:07 : INFO] - safe_mode: 0 
+[2021-10-03 23:12:07 : INFO] - max_execution_time: 30 
+[2021-10-03 23:12:07 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-03 23:12:07 : INFO] - multisite: N 
+[2021-10-03 23:12:07 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-03 23:12:07 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-03 23:12:07 : INFO] - Set semaphore last lock (smush) time to 2021-10-03 23:12:07 
+[2021-10-03 23:12:07 : INFO] - Semaphore lock (smush) complete 
+[2021-10-03 23:12:07 : INFO] - Processing task with ID : 152, and type 'smush' 
+[2021-10-03 23:12:07 : INFO] - Re_Smush_It_Task with attachment ID : 966, autocreated on : October 03, 2021 11:10:20 
+[2021-10-03 23:12:07 : INFO] - 95 
+[2021-10-03 23:12:08 : INFO] - Backing up the original image - 2021/10/hand-holding-house-real-estate-and-property-model-updraft-pre-smush-original.jpg 
+[2021-10-03 23:12:08 : INFO] - Re_Smush_It_Task with attachment ID : 966, autocreated on : October 03, 2021 11:10:20 
+[2021-10-03 23:12:08 : INFO] - 95 
+[2021-10-03 23:12:09 : INFO] - Re_Smush_It_Task with attachment ID : 966, autocreated on : October 03, 2021 11:10:20 
+[2021-10-03 23:12:09 : INFO] - 95 
+[2021-10-03 23:12:09 : INFO] - Re_Smush_It_Task with attachment ID : 966, autocreated on : October 03, 2021 11:10:20 
+[2021-10-03 23:12:09 : INFO] - 95 
+[2021-10-03 23:12:10 : INFO] - Re_Smush_It_Task with attachment ID : 966, autocreated on : October 03, 2021 11:10:20 
+[2021-10-03 23:12:10 : INFO] - 95 
+[2021-10-03 23:12:11 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/hand-holding-house-real-estate-and-property-model.jpg.El archivo ha sido comprimido de 101.79 KB a 95.21 KB ahorrando un 6.46 por ciento utilizando WP-Optimize 
+[2021-10-03 23:12:11 : INFO] - Completed processing task with ID : 152, and type 'smush' 
+[2021-10-03 23:12:11 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-03 23:12:11 : INFO] - Semaphore (smush) unlocked 
+[2021-10-03 23:12:11 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-03 23:12:11 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-03 23:12:11 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-03 23:14:32 : INFO] - Re_Smush_It_Task with attachment ID : 968, autocreated on : October 03, 2021 11:14:32 
+[2021-10-03 23:22:13 : INFO] - 
+ 
+[2021-10-03 23:22:13 : INFO] - Header for logs at time:  Sun, 03 Oct 2021 23:22:13 +0000 on https://prueba.inardek.com 
+[2021-10-03 23:22:13 : INFO] - WP: 5.8.1 
+[2021-10-03 23:22:13 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-03 23:22:13 : INFO] - MySQL: 8.0.26 
+[2021-10-03 23:22:13 : INFO] - WPLANG: es_CO 
+[2021-10-03 23:22:13 : INFO] - Server: LiteSpeed 
+[2021-10-03 23:22:13 : INFO] - Outbound connections: N 
+[2021-10-03 23:22:13 : INFO] - safe_mode: 0 
+[2021-10-03 23:22:13 : INFO] - max_execution_time: 30 
+[2021-10-03 23:22:13 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-03 23:22:13 : INFO] - multisite: N 
+[2021-10-03 23:22:13 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-03 23:22:13 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-03 23:22:13 : INFO] - Set semaphore last lock (smush) time to 2021-10-03 23:22:13 
+[2021-10-03 23:22:13 : INFO] - Semaphore lock (smush) complete 
+[2021-10-03 23:22:13 : INFO] - Processing task with ID : 153, and type 'smush' 
+[2021-10-03 23:22:13 : INFO] - Re_Smush_It_Task with attachment ID : 968, autocreated on : October 03, 2021 11:14:32 
+[2021-10-03 23:22:13 : INFO] - 95 
+[2021-10-03 23:22:14 : INFO] - Backing up the original image - 2021/10/hand-holding-house-real-estate-and-property-model-1-updraft-pre-smush-original.jpg 
+[2021-10-03 23:22:14 : INFO] - Re_Smush_It_Task with attachment ID : 968, autocreated on : October 03, 2021 11:14:32 
+[2021-10-03 23:22:14 : INFO] - 95 
+[2021-10-03 23:22:15 : INFO] - Re_Smush_It_Task with attachment ID : 968, autocreated on : October 03, 2021 11:14:32 
+[2021-10-03 23:22:15 : INFO] - 95 
+[2021-10-03 23:22:16 : INFO] - Re_Smush_It_Task with attachment ID : 968, autocreated on : October 03, 2021 11:14:32 
+[2021-10-03 23:22:16 : INFO] - 95 
+[2021-10-03 23:22:16 : INFO] - Re_Smush_It_Task with attachment ID : 968, autocreated on : October 03, 2021 11:14:32 
+[2021-10-03 23:22:16 : INFO] - 95 
+[2021-10-03 23:22:17 : INFO] - Re_Smush_It_Task with attachment ID : 968, autocreated on : October 03, 2021 11:14:32 
+[2021-10-03 23:22:17 : INFO] - 95 
+[2021-10-03 23:22:18 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/hand-holding-house-real-estate-and-property-model-1.jpg.El archivo ha sido comprimido de 106.57 KB a 97.46 KB ahorrando un 8.54 por ciento utilizando WP-Optimize 
+[2021-10-03 23:22:18 : INFO] - Completed processing task with ID : 153, and type 'smush' 
+[2021-10-03 23:22:18 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-03 23:22:18 : INFO] - Semaphore (smush) unlocked 
+[2021-10-03 23:22:18 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-03 23:22:18 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-03 23:22:18 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-03 23:32:26 : INFO] - 
+ 
+[2021-10-03 23:32:26 : INFO] - Header for logs at time:  Sun, 03 Oct 2021 23:32:26 +0000 on https://prueba.inardek.com 
+[2021-10-03 23:32:26 : INFO] - WP: 5.8.1 
+[2021-10-03 23:32:26 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-03 23:32:26 : INFO] - MySQL: 8.0.26 
+[2021-10-03 23:32:26 : INFO] - WPLANG: es_CO 
+[2021-10-03 23:32:26 : INFO] - Server: LiteSpeed 
+[2021-10-03 23:32:26 : INFO] - Outbound connections: N 
+[2021-10-03 23:32:26 : INFO] - safe_mode: 0 
+[2021-10-03 23:32:26 : INFO] - max_execution_time: 30 
+[2021-10-03 23:32:26 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-03 23:32:26 : INFO] - multisite: N 
+[2021-10-03 23:32:26 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-03 23:32:26 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-03 23:47:57 : INFO] - Re_Smush_It_Task with attachment ID : 980, autocreated on : October 03, 2021 11:47:57 
+[2021-10-03 23:53:12 : INFO] - 
+ 
+[2021-10-03 23:53:12 : INFO] - Header for logs at time:  Sun, 03 Oct 2021 23:53:12 +0000 on https://prueba.inardek.com 
+[2021-10-03 23:53:12 : INFO] - WP: 5.8.1 
+[2021-10-03 23:53:12 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-03 23:53:12 : INFO] - MySQL: 8.0.26 
+[2021-10-03 23:53:12 : INFO] - WPLANG: es_CO 
+[2021-10-03 23:53:12 : INFO] - Server: LiteSpeed 
+[2021-10-03 23:53:12 : INFO] - Outbound connections: N 
+[2021-10-03 23:53:12 : INFO] - safe_mode: 0 
+[2021-10-03 23:53:12 : INFO] - max_execution_time: 30 
+[2021-10-03 23:53:12 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-03 23:53:12 : INFO] - multisite: N 
+[2021-10-03 23:53:12 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-03 23:53:12 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-03 23:53:12 : INFO] - Set semaphore last lock (smush) time to 2021-10-03 23:53:12 
+[2021-10-03 23:53:12 : INFO] - Semaphore lock (smush) complete 
+[2021-10-03 23:53:12 : INFO] - Processing task with ID : 154, and type 'smush' 
+[2021-10-03 23:53:12 : INFO] - Re_Smush_It_Task with attachment ID : 980, autocreated on : October 03, 2021 11:47:57 
+[2021-10-03 23:53:12 : INFO] - 95 
+[2021-10-03 23:53:13 : INFO] - Backing up the original image - 2021/10/hand-holding-house-real-estate-and-property-model-updraft-pre-smush-original.jpg 
+[2021-10-03 23:53:13 : INFO] - Re_Smush_It_Task with attachment ID : 980, autocreated on : October 03, 2021 11:47:57 
+[2021-10-03 23:53:13 : INFO] - 95 
+[2021-10-03 23:53:14 : INFO] - Re_Smush_It_Task with attachment ID : 980, autocreated on : October 03, 2021 11:47:57 
+[2021-10-03 23:53:14 : INFO] - 95 
+[2021-10-03 23:53:15 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/hand-holding-house-real-estate-and-property-model.jpg.El archivo ha sido comprimido de 94.00 KB a 91.33 KB ahorrando un 2.84 por ciento utilizando WP-Optimize 
+[2021-10-03 23:53:15 : INFO] - Completed processing task with ID : 154, and type 'smush' 
+[2021-10-03 23:53:15 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-03 23:53:15 : INFO] - Semaphore (smush) unlocked 
+[2021-10-03 23:53:15 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-03 23:53:15 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-03 23:53:15 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-04 00:03:37 : INFO] - 
+ 
+[2021-10-04 00:03:37 : INFO] - Header for logs at time:  Mon, 04 Oct 2021 00:03:37 +0000 on https://prueba.inardek.com 
+[2021-10-04 00:03:37 : INFO] - WP: 5.8.1 
+[2021-10-04 00:03:37 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-04 00:03:37 : INFO] - MySQL: 8.0.26 
+[2021-10-04 00:03:37 : INFO] - WPLANG: es_CO 
+[2021-10-04 00:03:37 : INFO] - Server: LiteSpeed 
+[2021-10-04 00:03:37 : INFO] - Outbound connections: N 
+[2021-10-04 00:03:37 : INFO] - safe_mode: 0 
+[2021-10-04 00:03:37 : INFO] - max_execution_time: 30 
+[2021-10-04 00:03:37 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-04 00:03:37 : INFO] - multisite: N 
+[2021-10-04 00:03:37 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-04 00:03:37 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-04 14:54:31 : INFO] - Re_Smush_It_Task with attachment ID : 1041, autocreated on : October 04, 2021 02:54:31 
+[2021-10-04 14:59:37 : INFO] - 
+ 
+[2021-10-04 14:59:37 : INFO] - Header for logs at time:  Mon, 04 Oct 2021 14:59:37 +0000 on https://prueba.inardek.com 
+[2021-10-04 14:59:37 : INFO] - WP: 5.8.1 
+[2021-10-04 14:59:37 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-04 14:59:37 : INFO] - MySQL: 8.0.26 
+[2021-10-04 14:59:37 : INFO] - WPLANG: es_CO 
+[2021-10-04 14:59:37 : INFO] - Server: LiteSpeed 
+[2021-10-04 14:59:37 : INFO] - Outbound connections: N 
+[2021-10-04 14:59:37 : INFO] - safe_mode: 0 
+[2021-10-04 14:59:37 : INFO] - max_execution_time: 30 
+[2021-10-04 14:59:37 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-04 14:59:37 : INFO] - multisite: N 
+[2021-10-04 14:59:37 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-04 14:59:37 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-04 14:59:37 : INFO] - Set semaphore last lock (smush) time to 2021-10-04 14:59:37 
+[2021-10-04 14:59:37 : INFO] - Semaphore lock (smush) complete 
+[2021-10-04 14:59:37 : INFO] - Processing task with ID : 155, and type 'smush' 
+[2021-10-04 14:59:37 : INFO] - Re_Smush_It_Task with attachment ID : 1041, autocreated on : October 04, 2021 02:54:31 
+[2021-10-04 14:59:37 : INFO] - 95 
+[2021-10-04 14:59:39 : INFO] - Backing up the original image - 2021/10/2-updraft-pre-smush-original.jpg 
+[2021-10-04 14:59:39 : INFO] - Re_Smush_It_Task with attachment ID : 1041, autocreated on : October 04, 2021 02:54:31 
+[2021-10-04 14:59:39 : INFO] - 95 
+[2021-10-04 14:59:40 : INFO] - Re_Smush_It_Task with attachment ID : 1041, autocreated on : October 04, 2021 02:54:31 
+[2021-10-04 14:59:40 : INFO] - 95 
+[2021-10-04 14:59:41 : INFO] - Re_Smush_It_Task with attachment ID : 1041, autocreated on : October 04, 2021 02:54:31 
+[2021-10-04 14:59:41 : INFO] - 95 
+[2021-10-04 14:59:41 : INFO] - Re_Smush_It_Task with attachment ID : 1041, autocreated on : October 04, 2021 02:54:31 
+[2021-10-04 14:59:41 : INFO] - 95 
+[2021-10-04 14:59:42 : INFO] - Re_Smush_It_Task with attachment ID : 1041, autocreated on : October 04, 2021 02:54:31 
+[2021-10-04 14:59:42 : INFO] - 95 
+[2021-10-04 14:59:43 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/2.jpg.El archivo ha sido comprimido de 137.56 KB a 131.53 KB ahorrando un 4.39 por ciento utilizando WP-Optimize 
+[2021-10-04 14:59:43 : INFO] - Completed processing task with ID : 155, and type 'smush' 
+[2021-10-04 14:59:43 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-04 14:59:43 : INFO] - Semaphore (smush) unlocked 
+[2021-10-04 14:59:43 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-04 14:59:43 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-04 14:59:43 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-04 15:01:57 : INFO] - Re_Smush_It_Task with attachment ID : 1043, autocreated on : October 04, 2021 03:01:57 
+[2021-10-04 15:09:52 : INFO] - 
+ 
+[2021-10-04 15:09:52 : INFO] - Header for logs at time:  Mon, 04 Oct 2021 15:09:52 +0000 on https://prueba.inardek.com 
+[2021-10-04 15:09:52 : INFO] - WP: 5.8.1 
+[2021-10-04 15:09:52 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-04 15:09:52 : INFO] - MySQL: 8.0.26 
+[2021-10-04 15:09:52 : INFO] - WPLANG: es_CO 
+[2021-10-04 15:09:52 : INFO] - Server: LiteSpeed 
+[2021-10-04 15:09:53 : INFO] - Outbound connections: N 
+[2021-10-04 15:09:53 : INFO] - safe_mode: 0 
+[2021-10-04 15:09:53 : INFO] - max_execution_time: 30 
+[2021-10-04 15:09:53 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-04 15:09:53 : INFO] - multisite: N 
+[2021-10-04 15:09:53 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-04 15:09:53 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-04 15:09:53 : INFO] - Set semaphore last lock (smush) time to 2021-10-04 15:09:53 
+[2021-10-04 15:09:53 : INFO] - Semaphore lock (smush) complete 
+[2021-10-04 15:09:53 : INFO] - Processing task with ID : 156, and type 'smush' 
+[2021-10-04 15:09:53 : INFO] - Re_Smush_It_Task with attachment ID : 1043, autocreated on : October 04, 2021 03:01:57 
+[2021-10-04 15:09:53 : INFO] - 95 
+[2021-10-04 15:09:54 : INFO] - Backing up the original image - 2021/10/1-updraft-pre-smush-original.jpg 
+[2021-10-04 15:09:54 : INFO] - Re_Smush_It_Task with attachment ID : 1043, autocreated on : October 04, 2021 03:01:57 
+[2021-10-04 15:09:54 : INFO] - 95 
+[2021-10-04 15:09:54 : INFO] - Re_Smush_It_Task with attachment ID : 1043, autocreated on : October 04, 2021 03:01:57 
+[2021-10-04 15:09:54 : INFO] - 95 
+[2021-10-04 15:09:55 : INFO] - Re_Smush_It_Task with attachment ID : 1043, autocreated on : October 04, 2021 03:01:57 
+[2021-10-04 15:09:55 : INFO] - 95 
+[2021-10-04 15:09:55 : INFO] - Re_Smush_It_Task with attachment ID : 1043, autocreated on : October 04, 2021 03:01:57 
+[2021-10-04 15:09:55 : INFO] - 95 
+[2021-10-04 15:09:57 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/1.jpg.El archivo ha sido comprimido de 66.00 KB a 65.58 KB ahorrando un 0.64 por ciento utilizando WP-Optimize 
+[2021-10-04 15:09:57 : INFO] - Completed processing task with ID : 156, and type 'smush' 
+[2021-10-04 15:09:57 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-04 15:09:57 : INFO] - Semaphore (smush) unlocked 
+[2021-10-04 15:09:57 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-04 15:09:57 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-04 15:09:57 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-04 15:19:53 : INFO] - 
+ 
+[2021-10-04 15:19:53 : INFO] - Header for logs at time:  Mon, 04 Oct 2021 15:19:53 +0000 on https://prueba.inardek.com 
+[2021-10-04 15:19:53 : INFO] - WP: 5.8.1 
+[2021-10-04 15:19:53 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-04 15:19:53 : INFO] - MySQL: 8.0.26 
+[2021-10-04 15:19:53 : INFO] - WPLANG: es_CO 
+[2021-10-04 15:19:53 : INFO] - Server: LiteSpeed 
+[2021-10-04 15:19:53 : INFO] - Outbound connections: N 
+[2021-10-04 15:19:53 : INFO] - safe_mode: 0 
+[2021-10-04 15:19:53 : INFO] - max_execution_time: 30 
+[2021-10-04 15:19:53 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-04 15:19:53 : INFO] - multisite: N 
+[2021-10-04 15:19:53 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-04 15:19:53 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-04 16:02:28 : INFO] - Re_Smush_It_Task with attachment ID : 1044, autocreated on : October 04, 2021 04:02:28 
+[2021-10-04 16:07:36 : INFO] - 
+ 
+[2021-10-04 16:07:36 : INFO] - Header for logs at time:  Mon, 04 Oct 2021 16:07:36 +0000 on https://prueba.inardek.com 
+[2021-10-04 16:07:36 : INFO] - WP: 5.8.1 
+[2021-10-04 16:07:36 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-04 16:07:36 : INFO] - MySQL: 8.0.26 
+[2021-10-04 16:07:36 : INFO] - WPLANG: es_CO 
+[2021-10-04 16:07:36 : INFO] - Server: LiteSpeed 
+[2021-10-04 16:07:36 : INFO] - Outbound connections: N 
+[2021-10-04 16:07:36 : INFO] - safe_mode: 0 
+[2021-10-04 16:07:36 : INFO] - max_execution_time: 30 
+[2021-10-04 16:07:36 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-04 16:07:36 : INFO] - multisite: N 
+[2021-10-04 16:07:36 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-04 16:07:36 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-04 16:07:36 : INFO] - Set semaphore last lock (smush) time to 2021-10-04 16:07:36 
+[2021-10-04 16:07:36 : INFO] - Semaphore lock (smush) complete 
+[2021-10-04 16:07:36 : INFO] - Processing task with ID : 157, and type 'smush' 
+[2021-10-04 16:07:36 : INFO] - Re_Smush_It_Task with attachment ID : 1044, autocreated on : October 04, 2021 04:02:28 
+[2021-10-04 16:07:36 : INFO] - 95 
+[2021-10-04 16:07:51 : INFO] - Task with ID 157 and type (smush) failed with error code http_request_failed - cURL error 28: Resolving timed out after 10000 milliseconds 
+[2021-10-04 16:07:51 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-10-04 16:07:51 : INFO] - Re_Smush_It_Task with attachment ID : 1044, autocreated on : October 04, 2021 04:02:28 
+[2021-10-04 16:07:51 : INFO] - 95 
+[2021-10-04 16:07:56 : INFO] - Task with ID 157 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-10-04 16:07:56 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-10-04 16:07:56 : INFO] - Re_Smush_It_Task with attachment ID : 1044, autocreated on : October 04, 2021 04:02:28 
+[2021-10-04 16:07:56 : INFO] - 95 
+[2021-10-04 16:08:06 : INFO] - Task with ID 157 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-10-04 16:08:06 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/0bae179c4f02e2f01f0cd9d763b6f95a\/_src_3-1024x426.jpg","dest":"http:\/\/par2.static.resmush.it\/0bae179c4f02e2f01f0cd9d763b6f95a\/3-1024x426.jpg","src_size":37531,"dest_size":35917,"percent":4,"output":"json","expires":"Mon, 04 Oct 2021 18:13:01 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-10-04 16:08:06 : INFO] - Re_Smush_It_Task with attachment ID : 1044, autocreated on : October 04, 2021 04:02:28 
+[2021-10-04 16:08:06 : INFO] - 95 
+[2021-10-04 16:08:17 : INFO] - Task with ID 157 and type (smush) failed with error code http_request_failed - cURL error 28: Resolving timed out after 10000 milliseconds 
+[2021-10-04 16:08:17 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-10-04 16:08:17 : INFO] - Re_Smush_It_Task with attachment ID : 1044, autocreated on : October 04, 2021 04:02:28 
+[2021-10-04 16:08:17 : INFO] - 95 
+[2021-10-04 16:08:22 : INFO] - Task with ID 157 and type (smush) failed with error code http_request_failed - cURL error 6: Could not resolve host: api.resmush.it 
+[2021-10-04 16:08:22 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-10-04 16:08:22 : INFO] - Re_Smush_It_Task with attachment ID : 1044, autocreated on : October 04, 2021 04:02:28 
+[2021-10-04 16:08:22 : INFO] - 95 
+[2021-10-04 16:08:42 : INFO] - Task with ID 157 and type (smush) failed with error code http_request_failed - cURL error 28: Resolving timed out after 10001 milliseconds 
+[2021-10-04 16:08:42 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-10-04 16:08:42 : INFO] - Set semaphore last lock (smush) time to 2021-10-04 16:08:42 
+[2021-10-04 16:08:42 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-04 16:08:42 : INFO] - Semaphore (smush) unlocked 
+[2021-10-04 16:08:42 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-04 16:08:42 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-04 16:08:42 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-04 16:17:39 : INFO] - 
+ 
+[2021-10-04 16:17:39 : INFO] - Header for logs at time:  Mon, 04 Oct 2021 16:17:39 +0000 on https://prueba.inardek.com 
+[2021-10-04 16:17:39 : INFO] - WP: 5.8.1 
+[2021-10-04 16:17:39 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-04 16:17:39 : INFO] - MySQL: 8.0.26 
+[2021-10-04 16:17:39 : INFO] - WPLANG: es_CO 
+[2021-10-04 16:17:39 : INFO] - Server: LiteSpeed 
+[2021-10-04 16:17:39 : INFO] - Outbound connections: N 
+[2021-10-04 16:17:39 : INFO] - safe_mode: 0 
+[2021-10-04 16:17:39 : INFO] - max_execution_time: 30 
+[2021-10-04 16:17:39 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-04 16:17:39 : INFO] - multisite: N 
+[2021-10-04 16:17:39 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-04 16:17:39 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-04 16:18:51 : INFO] - Re_Smush_It_Task with attachment ID : 1051, autocreated on : October 04, 2021 04:18:51 
+[2021-10-04 16:24:30 : INFO] - 
+ 
+[2021-10-04 16:24:30 : INFO] - Header for logs at time:  Mon, 04 Oct 2021 16:24:30 +0000 on https://prueba.inardek.com 
+[2021-10-04 16:24:30 : INFO] - WP: 5.8.1 
+[2021-10-04 16:24:30 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-04 16:24:30 : INFO] - MySQL: 8.0.26 
+[2021-10-04 16:24:30 : INFO] - WPLANG: es_CO 
+[2021-10-04 16:24:30 : INFO] - Server: LiteSpeed 
+[2021-10-04 16:24:30 : INFO] - Outbound connections: N 
+[2021-10-04 16:24:30 : INFO] - safe_mode: 0 
+[2021-10-04 16:24:30 : INFO] - max_execution_time: 30 
+[2021-10-04 16:24:30 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-04 16:24:30 : INFO] - multisite: N 
+[2021-10-04 16:24:30 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-04 16:24:30 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-04 16:24:30 : INFO] - Set semaphore last lock (smush) time to 2021-10-04 16:24:30 
+[2021-10-04 16:24:30 : INFO] - Semaphore lock (smush) complete 
+[2021-10-04 16:24:30 : INFO] - Processing task with ID : 158, and type 'smush' 
+[2021-10-04 16:24:30 : INFO] - Re_Smush_It_Task with attachment ID : 1051, autocreated on : October 04, 2021 04:18:51 
+[2021-10-04 16:24:30 : INFO] - 95 
+[2021-10-04 16:24:36 : INFO] - Task with ID 158 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-10-04 16:24:36 : INFO] - data: {"src":"http:\/\/par4.static.resmush.it\/b03c4443d2b15684062ba12b3321ad1a\/_src_4.jpg","dest":"http:\/\/par4.static.resmush.it\/b03c4443d2b15684062ba12b3321ad1a\/4.jpg","src_size":157193,"dest_size":148274,"percent":6,"output":"json","expires":"Mon, 04 Oct 2021 18:29:31 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-10-04 16:24:36 : INFO] - Re_Smush_It_Task with attachment ID : 1051, autocreated on : October 04, 2021 04:18:51 
+[2021-10-04 16:24:36 : INFO] - 95 
+[2021-10-04 16:24:52 : INFO] - Task with ID 158 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-10-04 16:24:52 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/820e7cae3203f2efb35e97fc10194045\/_src_4-300x128.jpg","dest":"http:\/\/par3.static.resmush.it\/820e7cae3203f2efb35e97fc10194045\/4-300x128.jpg","src_size":5107,"dest_size":4751,"percent":7,"output":"json","expires":"Mon, 04 Oct 2021 18:29:36 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-10-04 16:24:52 : INFO] - Re_Smush_It_Task with attachment ID : 1051, autocreated on : October 04, 2021 04:18:51 
+[2021-10-04 16:24:52 : INFO] - 95 
+[2021-10-04 16:25:07 : INFO] - Task with ID 158 and type (smush) failed with error code http_request_failed - cURL error 28: Resolving timed out after 10000 milliseconds 
+[2021-10-04 16:25:07 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-10-04 16:25:07 : INFO] - Re_Smush_It_Task with attachment ID : 1051, autocreated on : October 04, 2021 04:18:51 
+[2021-10-04 16:25:07 : INFO] - 95 
+[2021-10-04 16:25:54 : INFO] - Task with ID 158 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-10-04 16:25:54 : INFO] - data: {"src":"http:\/\/par4.static.resmush.it\/df877a0c9397118241a1a1bd444fb1b4\/_src_4-150x150.jpg","dest":"http:\/\/par4.static.resmush.it\/df877a0c9397118241a1a1bd444fb1b4\/4-150x150.jpg","src_size":3458,"dest_size":3134,"percent":9,"output":"json","expires":"Mon, 04 Oct 2021 18:30:09 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-10-04 16:25:54 : INFO] - Re_Smush_It_Task with attachment ID : 1051, autocreated on : October 04, 2021 04:18:51 
+[2021-10-04 16:25:54 : INFO] - 95 
+[2021-10-04 16:26:04 : INFO] - Task with ID 158 and type (smush) failed with error code http_request_failed - cURL error 28: Resolving timed out after 10000 milliseconds 
+[2021-10-04 16:26:04 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2021-10-04 16:26:04 : INFO] - Re_Smush_It_Task with attachment ID : 1051, autocreated on : October 04, 2021 04:18:51 
+[2021-10-04 16:26:04 : INFO] - 95 
+[2021-10-04 16:26:05 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/4.jpg.El archivo ha sido comprimido de 153.51 KB a 153.51 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-04 16:26:05 : INFO] - Completed processing task with ID : 158, and type 'smush' 
+[2021-10-04 16:26:05 : INFO] - Set semaphore last lock (smush) time to 2021-10-04 16:26:05 
+[2021-10-04 16:26:05 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-04 16:26:05 : INFO] - Semaphore (smush) unlocked 
+[2021-10-04 16:26:05 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-04 16:26:05 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-04 16:26:05 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-04 16:34:33 : INFO] - 
+ 
+[2021-10-04 16:34:33 : INFO] - Header for logs at time:  Mon, 04 Oct 2021 16:34:33 +0000 on https://prueba.inardek.com 
+[2021-10-04 16:34:33 : INFO] - WP: 5.8.1 
+[2021-10-04 16:34:33 : INFO] - PHP: 7.3.30 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-04 16:34:33 : INFO] - MySQL: 8.0.26 
+[2021-10-04 16:34:33 : INFO] - WPLANG: es_CO 
+[2021-10-04 16:34:33 : INFO] - Server: LiteSpeed 
+[2021-10-04 16:34:33 : INFO] - Outbound connections: N 
+[2021-10-04 16:34:33 : INFO] - safe_mode: 0 
+[2021-10-04 16:34:33 : INFO] - max_execution_time: 30 
+[2021-10-04 16:34:33 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-04 16:34:33 : INFO] - multisite: N 
+[2021-10-04 16:34:33 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-04 16:34:33 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-06 01:19:28 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : October 06, 2021 01:19:28 
+[2021-10-06 01:25:34 : INFO] - 
+ 
+[2021-10-06 01:25:34 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 01:25:34 +0000 on https://prueba.inardek.com 
+[2021-10-06 01:25:34 : INFO] - WP: 5.8.1 
+[2021-10-06 01:25:34 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 01:25:34 : INFO] - MySQL: 8.0.26 
+[2021-10-06 01:25:34 : INFO] - WPLANG: es_CO 
+[2021-10-06 01:25:34 : INFO] - Server: LiteSpeed 
+[2021-10-06 01:25:34 : INFO] - Outbound connections: N 
+[2021-10-06 01:25:34 : INFO] - safe_mode: 0 
+[2021-10-06 01:25:34 : INFO] - max_execution_time: 30 
+[2021-10-06 01:25:34 : INFO] - memory_limit: 128M (used: 70.9M | 73M) 
+[2021-10-06 01:25:34 : INFO] - multisite: N 
+[2021-10-06 01:25:34 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 01:25:34 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-06 01:25:35 : INFO] - Set semaphore last lock (smush) time to 2021-10-06 01:25:35 
+[2021-10-06 01:25:35 : INFO] - Semaphore lock (smush) complete 
+[2021-10-06 01:25:35 : INFO] - Processing task with ID : 159, and type 'smush' 
+[2021-10-06 01:25:35 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : October 06, 2021 01:19:28 
+[2021-10-06 01:25:35 : INFO] - 95 
+[2021-10-06 01:25:36 : INFO] - Backing up the original image - 2021/10/testimonio-1-updraft-pre-smush-original.jpg 
+[2021-10-06 01:25:36 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : October 06, 2021 01:19:28 
+[2021-10-06 01:25:36 : INFO] - 95 
+[2021-10-06 01:25:37 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : October 06, 2021 01:19:28 
+[2021-10-06 01:25:37 : INFO] - 95 
+[2021-10-06 01:25:37 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/testimonio-1.jpg.El archivo ha sido comprimido de 137.11 KB a 137.11 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-06 01:25:37 : INFO] - Completed processing task with ID : 159, and type 'smush' 
+[2021-10-06 01:25:37 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-06 01:25:37 : INFO] - Semaphore (smush) unlocked 
+[2021-10-06 01:25:37 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-06 01:25:37 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-06 01:25:37 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-06 01:36:25 : INFO] - 
+ 
+[2021-10-06 01:36:25 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 01:36:25 +0000 on https://prueba.inardek.com 
+[2021-10-06 01:36:25 : INFO] - WP: 5.8.1 
+[2021-10-06 01:36:25 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 01:36:25 : INFO] - MySQL: 8.0.26 
+[2021-10-06 01:36:25 : INFO] - WPLANG: es_CO 
+[2021-10-06 01:36:25 : INFO] - Server: LiteSpeed 
+[2021-10-06 01:36:25 : INFO] - Outbound connections: N 
+[2021-10-06 01:36:25 : INFO] - safe_mode: 0 
+[2021-10-06 01:36:25 : INFO] - max_execution_time: 30 
+[2021-10-06 01:36:25 : INFO] - memory_limit: 128M (used: 70.9M | 73M) 
+[2021-10-06 01:36:25 : INFO] - multisite: N 
+[2021-10-06 01:36:25 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 01:36:25 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-06 02:18:19 : INFO] - Re_Smush_It_Task with attachment ID : 1101, autocreated on : October 06, 2021 02:18:18 
+[2021-10-06 02:23:33 : INFO] - 
+ 
+[2021-10-06 02:23:33 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 02:23:33 +0000 on https://prueba.inardek.com 
+[2021-10-06 02:23:33 : INFO] - WP: 5.8.1 
+[2021-10-06 02:23:33 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 02:23:33 : INFO] - MySQL: 8.0.26 
+[2021-10-06 02:23:33 : INFO] - WPLANG: es_CO 
+[2021-10-06 02:23:33 : INFO] - Server: LiteSpeed 
+[2021-10-06 02:23:33 : INFO] - Outbound connections: N 
+[2021-10-06 02:23:33 : INFO] - safe_mode: 0 
+[2021-10-06 02:23:33 : INFO] - max_execution_time: 30 
+[2021-10-06 02:23:33 : INFO] - memory_limit: 128M (used: 70.9M | 73M) 
+[2021-10-06 02:23:33 : INFO] - multisite: N 
+[2021-10-06 02:23:33 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 02:23:33 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-06 02:23:33 : INFO] - Set semaphore last lock (smush) time to 2021-10-06 02:23:33 
+[2021-10-06 02:23:33 : INFO] - Semaphore lock (smush) complete 
+[2021-10-06 02:23:33 : INFO] - Processing task with ID : 160, and type 'smush' 
+[2021-10-06 02:23:33 : INFO] - Re_Smush_It_Task with attachment ID : 1101, autocreated on : October 06, 2021 02:18:18 
+[2021-10-06 02:23:33 : INFO] - 95 
+[2021-10-06 02:23:34 : INFO] - Backing up the original image - 2021/10/testimonio-2-updraft-pre-smush-original.jpg 
+[2021-10-06 02:23:34 : INFO] - Re_Smush_It_Task with attachment ID : 1101, autocreated on : October 06, 2021 02:18:18 
+[2021-10-06 02:23:34 : INFO] - 95 
+[2021-10-06 02:23:35 : INFO] - Re_Smush_It_Task with attachment ID : 1101, autocreated on : October 06, 2021 02:18:18 
+[2021-10-06 02:23:35 : INFO] - 95 
+[2021-10-06 02:23:35 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/testimonio-2.jpg.El archivo ha sido comprimido de 119.02 KB a 113.65 KB ahorrando un 4.51 por ciento utilizando WP-Optimize 
+[2021-10-06 02:23:35 : INFO] - Completed processing task with ID : 160, and type 'smush' 
+[2021-10-06 02:23:35 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-06 02:23:35 : INFO] - Semaphore (smush) unlocked 
+[2021-10-06 02:23:35 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-06 02:23:35 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-06 02:23:35 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-06 02:27:35 : INFO] - Re_Smush_It_Task with attachment ID : 1105, autocreated on : October 06, 2021 02:27:35 
+[2021-10-06 02:34:44 : INFO] - 
+ 
+[2021-10-06 02:34:44 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 02:34:44 +0000 on https://prueba.inardek.com 
+[2021-10-06 02:34:44 : INFO] - WP: 5.8.1 
+[2021-10-06 02:34:44 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 02:34:44 : INFO] - MySQL: 8.0.26 
+[2021-10-06 02:34:44 : INFO] - WPLANG: es_CO 
+[2021-10-06 02:34:44 : INFO] - Server: LiteSpeed 
+[2021-10-06 02:34:44 : INFO] - Outbound connections: N 
+[2021-10-06 02:34:44 : INFO] - safe_mode: 0 
+[2021-10-06 02:34:44 : INFO] - max_execution_time: 30 
+[2021-10-06 02:34:44 : INFO] - memory_limit: 128M (used: 70.9M | 73M) 
+[2021-10-06 02:34:44 : INFO] - multisite: N 
+[2021-10-06 02:34:44 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 02:34:44 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-06 02:34:44 : INFO] - Set semaphore last lock (smush) time to 2021-10-06 02:34:44 
+[2021-10-06 02:34:44 : INFO] - Semaphore lock (smush) complete 
+[2021-10-06 02:34:44 : INFO] - Processing task with ID : 161, and type 'smush' 
+[2021-10-06 02:34:44 : INFO] - Re_Smush_It_Task with attachment ID : 1105, autocreated on : October 06, 2021 02:27:35 
+[2021-10-06 02:34:44 : INFO] - 95 
+[2021-10-06 02:34:45 : INFO] - Backing up the original image - 2021/10/testimonio3-updraft-pre-smush-original.jpg 
+[2021-10-06 02:34:45 : INFO] - Re_Smush_It_Task with attachment ID : 1105, autocreated on : October 06, 2021 02:27:35 
+[2021-10-06 02:34:45 : INFO] - 95 
+[2021-10-06 02:34:46 : INFO] - Re_Smush_It_Task with attachment ID : 1105, autocreated on : October 06, 2021 02:27:35 
+[2021-10-06 02:34:46 : INFO] - 95 
+[2021-10-06 02:34:46 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/testimonio3.jpg.El archivo ha sido comprimido de 131.71 KB a 131.71 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-06 02:34:46 : INFO] - Completed processing task with ID : 161, and type 'smush' 
+[2021-10-06 02:34:46 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-06 02:34:46 : INFO] - Semaphore (smush) unlocked 
+[2021-10-06 02:34:46 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-06 02:34:46 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-06 02:34:46 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-06 02:45:41 : INFO] - 
+ 
+[2021-10-06 02:45:41 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 02:45:41 +0000 on https://prueba.inardek.com 
+[2021-10-06 02:45:41 : INFO] - WP: 5.8.1 
+[2021-10-06 02:45:41 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 02:45:41 : INFO] - MySQL: 8.0.26 
+[2021-10-06 02:45:41 : INFO] - WPLANG: es_CO 
+[2021-10-06 02:45:41 : INFO] - Server: LiteSpeed 
+[2021-10-06 02:45:41 : INFO] - Outbound connections: N 
+[2021-10-06 02:45:41 : INFO] - safe_mode: 0 
+[2021-10-06 02:45:41 : INFO] - max_execution_time: 30 
+[2021-10-06 02:45:41 : INFO] - memory_limit: 128M (used: 70.9M | 73M) 
+[2021-10-06 02:45:41 : INFO] - multisite: N 
+[2021-10-06 02:45:41 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 02:45:41 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-06 05:55:56 : INFO] - Re_Smush_It_Task with attachment ID : 1119, autocreated on : October 06, 2021 05:55:56 
+[2021-10-06 06:01:24 : INFO] - 
+ 
+[2021-10-06 06:01:24 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 06:01:24 +0000 on https://prueba.inardek.com 
+[2021-10-06 06:01:24 : INFO] - WP: 5.8.1 
+[2021-10-06 06:01:24 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 06:01:24 : INFO] - MySQL: 8.0.26 
+[2021-10-06 06:01:24 : INFO] - WPLANG: es_CO 
+[2021-10-06 06:01:24 : INFO] - Server: LiteSpeed 
+[2021-10-06 06:01:24 : INFO] - Outbound connections: N 
+[2021-10-06 06:01:24 : INFO] - safe_mode: 0 
+[2021-10-06 06:01:24 : INFO] - max_execution_time: 30 
+[2021-10-06 06:01:24 : INFO] - memory_limit: 128M (used: 70.9M | 73M) 
+[2021-10-06 06:01:24 : INFO] - multisite: N 
+[2021-10-06 06:01:24 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 06:01:24 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-06 06:01:24 : INFO] - Set semaphore last lock (smush) time to 2021-10-06 06:01:24 
+[2021-10-06 06:01:24 : INFO] - Semaphore lock (smush) complete 
+[2021-10-06 06:01:24 : INFO] - Processing task with ID : 162, and type 'smush' 
+[2021-10-06 06:01:24 : INFO] - Re_Smush_It_Task with attachment ID : 1119, autocreated on : October 06, 2021 05:55:56 
+[2021-10-06 06:01:24 : INFO] - 95 
+[2021-10-06 06:01:25 : INFO] - Backing up the original image - 2021/10/5-updraft-pre-smush-original.jpg 
+[2021-10-06 06:01:25 : INFO] - Re_Smush_It_Task with attachment ID : 1119, autocreated on : October 06, 2021 05:55:56 
+[2021-10-06 06:01:25 : INFO] - 95 
+[2021-10-06 06:01:26 : INFO] - Re_Smush_It_Task with attachment ID : 1119, autocreated on : October 06, 2021 05:55:56 
+[2021-10-06 06:01:26 : INFO] - 95 
+[2021-10-06 06:01:27 : INFO] - Re_Smush_It_Task with attachment ID : 1119, autocreated on : October 06, 2021 05:55:56 
+[2021-10-06 06:01:27 : INFO] - 95 
+[2021-10-06 06:01:27 : INFO] - Re_Smush_It_Task with attachment ID : 1119, autocreated on : October 06, 2021 05:55:56 
+[2021-10-06 06:01:27 : INFO] - 95 
+[2021-10-06 06:01:29 : INFO] - Re_Smush_It_Task with attachment ID : 1119, autocreated on : October 06, 2021 05:55:56 
+[2021-10-06 06:01:29 : INFO] - 95 
+[2021-10-06 06:01:30 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/5.jpg.El archivo ha sido comprimido de 153.37 KB a 144.48 KB ahorrando un 5.8 por ciento utilizando WP-Optimize 
+[2021-10-06 06:01:30 : INFO] - Completed processing task with ID : 162, and type 'smush' 
+[2021-10-06 06:01:30 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-06 06:01:30 : INFO] - Semaphore (smush) unlocked 
+[2021-10-06 06:01:30 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-06 06:01:30 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-06 06:01:30 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-06 06:04:36 : INFO] - Re_Smush_It_Task with attachment ID : 1121, autocreated on : October 06, 2021 06:04:36 
+[2021-10-06 06:11:41 : INFO] - 
+ 
+[2021-10-06 06:11:41 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 06:11:41 +0000 on https://prueba.inardek.com 
+[2021-10-06 06:11:41 : INFO] - WP: 5.8.1 
+[2021-10-06 06:11:41 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 06:11:41 : INFO] - MySQL: 8.0.26 
+[2021-10-06 06:11:41 : INFO] - WPLANG: es_CO 
+[2021-10-06 06:11:41 : INFO] - Server: LiteSpeed 
+[2021-10-06 06:11:41 : INFO] - Outbound connections: N 
+[2021-10-06 06:11:41 : INFO] - safe_mode: 0 
+[2021-10-06 06:11:41 : INFO] - max_execution_time: 30 
+[2021-10-06 06:11:41 : INFO] - memory_limit: 128M (used: 70.9M | 73M) 
+[2021-10-06 06:11:41 : INFO] - multisite: N 
+[2021-10-06 06:11:41 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 06:11:41 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-10-06 06:11:41 : INFO] - Set semaphore last lock (smush) time to 2021-10-06 06:11:41 
+[2021-10-06 06:11:41 : INFO] - Semaphore lock (smush) complete 
+[2021-10-06 06:11:41 : INFO] - Processing task with ID : 163, and type 'smush' 
+[2021-10-06 06:11:41 : INFO] - Re_Smush_It_Task with attachment ID : 1121, autocreated on : October 06, 2021 06:04:36 
+[2021-10-06 06:11:41 : INFO] - 95 
+[2021-10-06 06:11:42 : INFO] - Backing up the original image - 2021/10/5-1-updraft-pre-smush-original.jpg 
+[2021-10-06 06:11:42 : INFO] - Re_Smush_It_Task with attachment ID : 1121, autocreated on : October 06, 2021 06:04:36 
+[2021-10-06 06:11:42 : INFO] - 95 
+[2021-10-06 06:11:42 : INFO] - Re_Smush_It_Task with attachment ID : 1121, autocreated on : October 06, 2021 06:04:36 
+[2021-10-06 06:11:42 : INFO] - 95 
+[2021-10-06 06:11:43 : INFO] - Re_Smush_It_Task with attachment ID : 1121, autocreated on : October 06, 2021 06:04:36 
+[2021-10-06 06:11:43 : INFO] - 95 
+[2021-10-06 06:11:44 : INFO] - Re_Smush_It_Task with attachment ID : 1121, autocreated on : October 06, 2021 06:04:36 
+[2021-10-06 06:11:44 : INFO] - 95 
+[2021-10-06 06:11:45 : INFO] - Re_Smush_It_Task with attachment ID : 1121, autocreated on : October 06, 2021 06:04:36 
+[2021-10-06 06:11:45 : INFO] - 95 
+[2021-10-06 06:11:46 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/5-1.jpg.El archivo ha sido comprimido de 165.84 KB a 158.61 KB ahorrando un 4.36 por ciento utilizando WP-Optimize 
+[2021-10-06 06:11:46 : INFO] - Completed processing task with ID : 163, and type 'smush' 
+[2021-10-06 06:11:46 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-06 06:11:46 : INFO] - Semaphore (smush) unlocked 
+[2021-10-06 06:11:46 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-10-06 06:11:46 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-06 06:11:46 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-10-06 06:11:52 : INFO] - Re_Smush_It_Task with attachment ID : 1128, autocreated on : October 06, 2021 06:11:52 
+[2021-10-06 06:16:00 : INFO] - Re_Smush_It_Task with attachment ID : 1129, autocreated on : October 06, 2021 06:16:00 
+[2021-10-06 06:17:23 : INFO] - Re_Smush_It_Task with attachment ID : 1130, autocreated on : October 06, 2021 06:17:23 
+[2021-10-06 06:21:43 : INFO] - 
+ 
+[2021-10-06 06:21:43 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 06:21:43 +0000 on https://prueba.inardek.com 
+[2021-10-06 06:21:43 : INFO] - WP: 5.8.1 
+[2021-10-06 06:21:43 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 06:21:43 : INFO] - MySQL: 8.0.26 
+[2021-10-06 06:21:43 : INFO] - WPLANG: es_CO 
+[2021-10-06 06:21:43 : INFO] - Server: LiteSpeed 
+[2021-10-06 06:21:43 : INFO] - Outbound connections: N 
+[2021-10-06 06:21:43 : INFO] - safe_mode: 0 
+[2021-10-06 06:21:43 : INFO] - max_execution_time: 30 
+[2021-10-06 06:21:43 : INFO] - memory_limit: 128M (used: 70.9M | 73M) 
+[2021-10-06 06:21:43 : INFO] - multisite: N 
+[2021-10-06 06:21:43 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 06:21:43 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2021-10-06 06:21:43 : INFO] - Set semaphore last lock (smush) time to 2021-10-06 06:21:43 
+[2021-10-06 06:21:43 : INFO] - Semaphore lock (smush) complete 
+[2021-10-06 06:21:43 : INFO] - Processing task with ID : 164, and type 'smush' 
+[2021-10-06 06:21:43 : INFO] - Re_Smush_It_Task with attachment ID : 1128, autocreated on : October 06, 2021 06:11:52 
+[2021-10-06 06:21:43 : INFO] - 95 
+[2021-10-06 06:21:45 : INFO] - Backing up the original image - 2021/10/stay-at-home-concept-on-wooden-table-side-view-hand-holding-wooden-cube-updraft-pre-smush-original.jpg 
+[2021-10-06 06:21:45 : INFO] - Re_Smush_It_Task with attachment ID : 1128, autocreated on : October 06, 2021 06:11:52 
+[2021-10-06 06:21:45 : INFO] - 95 
+[2021-10-06 06:21:45 : INFO] - Re_Smush_It_Task with attachment ID : 1128, autocreated on : October 06, 2021 06:11:52 
+[2021-10-06 06:21:45 : INFO] - 95 
+[2021-10-06 06:21:47 : INFO] - Re_Smush_It_Task with attachment ID : 1128, autocreated on : October 06, 2021 06:11:52 
+[2021-10-06 06:21:47 : INFO] - 95 
+[2021-10-06 06:21:48 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/stay-at-home-concept-on-wooden-table-side-view-hand-holding-wooden-cube.jpg.El archivo ha sido comprimido de 595.51 KB a 161.57 KB ahorrando un 72.87 por ciento utilizando WP-Optimize 
+[2021-10-06 06:21:48 : INFO] - Completed processing task with ID : 164, and type 'smush' 
+[2021-10-06 06:21:48 : INFO] - Processing task with ID : 165, and type 'smush' 
+[2021-10-06 06:21:48 : INFO] - Re_Smush_It_Task with attachment ID : 1129, autocreated on : October 06, 2021 06:16:00 
+[2021-10-06 06:21:48 : INFO] - 95 
+[2021-10-06 06:21:49 : INFO] - Backing up the original image - 2021/10/pexels-rodnae-productions-8293778-updraft-pre-smush-original.jpg 
+[2021-10-06 06:21:49 : INFO] - Re_Smush_It_Task with attachment ID : 1129, autocreated on : October 06, 2021 06:16:00 
+[2021-10-06 06:21:49 : INFO] - 95 
+[2021-10-06 06:21:50 : INFO] - Re_Smush_It_Task with attachment ID : 1129, autocreated on : October 06, 2021 06:16:00 
+[2021-10-06 06:21:50 : INFO] - 95 
+[2021-10-06 06:21:51 : INFO] - Re_Smush_It_Task with attachment ID : 1129, autocreated on : October 06, 2021 06:16:00 
+[2021-10-06 06:21:51 : INFO] - 95 
+[2021-10-06 06:21:51 : INFO] - Re_Smush_It_Task with attachment ID : 1129, autocreated on : October 06, 2021 06:16:00 
+[2021-10-06 06:21:51 : INFO] - 95 
+[2021-10-06 06:21:53 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/pexels-rodnae-productions-8293778.jpg.El archivo ha sido comprimido de 142.60 KB a 142.60 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-06 06:21:53 : INFO] - Completed processing task with ID : 165, and type 'smush' 
+[2021-10-06 06:21:53 : INFO] - Processing task with ID : 166, and type 'smush' 
+[2021-10-06 06:21:53 : INFO] - Re_Smush_It_Task with attachment ID : 1130, autocreated on : October 06, 2021 06:17:23 
+[2021-10-06 06:21:53 : INFO] - 95 
+[2021-10-06 06:21:54 : INFO] - Backing up the original image - 2021/10/woman-holding-set-of-keys-with-wooden-cubes-updraft-pre-smush-original.jpg 
+[2021-10-06 06:21:54 : INFO] - Re_Smush_It_Task with attachment ID : 1130, autocreated on : October 06, 2021 06:17:23 
+[2021-10-06 06:21:54 : INFO] - 95 
+[2021-10-06 06:21:55 : INFO] - Re_Smush_It_Task with attachment ID : 1130, autocreated on : October 06, 2021 06:17:23 
+[2021-10-06 06:21:55 : INFO] - 95 
+[2021-10-06 06:21:55 : INFO] - Re_Smush_It_Task with attachment ID : 1130, autocreated on : October 06, 2021 06:17:23 
+[2021-10-06 06:21:55 : INFO] - 95 
+[2021-10-06 06:21:56 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/woman-holding-set-of-keys-with-wooden-cubes.jpg.El archivo ha sido comprimido de 405.18 KB a 126.05 KB ahorrando un 68.89 por ciento utilizando WP-Optimize 
+[2021-10-06 06:21:56 : INFO] - Completed processing task with ID : 166, and type 'smush' 
+[2021-10-06 06:21:56 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-06 06:21:56 : INFO] - Semaphore (smush) unlocked 
+[2021-10-06 06:21:56 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2021-10-06 06:21:56 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-06 06:21:56 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2021-10-06 06:32:08 : INFO] - 
+ 
+[2021-10-06 06:32:08 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 06:32:08 +0000 on https://prueba.inardek.com 
+[2021-10-06 06:32:08 : INFO] - WP: 5.8.1 
+[2021-10-06 06:32:08 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 06:32:08 : INFO] - MySQL: 8.0.26 
+[2021-10-06 06:32:08 : INFO] - WPLANG: es_CO 
+[2021-10-06 06:32:08 : INFO] - Server: LiteSpeed 
+[2021-10-06 06:32:08 : INFO] - Outbound connections: N 
+[2021-10-06 06:32:08 : INFO] - safe_mode: 0 
+[2021-10-06 06:32:08 : INFO] - max_execution_time: 30 
+[2021-10-06 06:32:08 : INFO] - memory_limit: 128M (used: 70.9M | 73M) 
+[2021-10-06 06:32:08 : INFO] - multisite: N 
+[2021-10-06 06:32:08 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 06:32:08 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-06 06:44:15 : INFO] - Re_Smush_It_Task with attachment ID : 1148, autocreated on : October 06, 2021 06:44:14 
+[2021-10-06 06:46:17 : INFO] - Re_Smush_It_Task with attachment ID : 1150, autocreated on : October 06, 2021 06:46:16 
+[2021-10-06 06:49:18 : INFO] - 
+ 
+[2021-10-06 06:49:18 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 06:49:18 +0000 on https://prueba.inardek.com 
+[2021-10-06 06:49:18 : INFO] - WP: 5.8.1 
+[2021-10-06 06:49:18 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 06:49:18 : INFO] - MySQL: 8.0.26 
+[2021-10-06 06:49:18 : INFO] - WPLANG: es_CO 
+[2021-10-06 06:49:18 : INFO] - Server: LiteSpeed 
+[2021-10-06 06:49:18 : INFO] - Outbound connections: N 
+[2021-10-06 06:49:18 : INFO] - safe_mode: 0 
+[2021-10-06 06:49:18 : INFO] - max_execution_time: 30 
+[2021-10-06 06:49:18 : INFO] - memory_limit: 128M (used: 70.9M | 73M) 
+[2021-10-06 06:49:18 : INFO] - multisite: N 
+[2021-10-06 06:49:18 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 06:49:18 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-10-06 06:49:18 : INFO] - Set semaphore last lock (smush) time to 2021-10-06 06:49:18 
+[2021-10-06 06:49:18 : INFO] - Semaphore lock (smush) complete 
+[2021-10-06 06:49:18 : INFO] - Processing task with ID : 167, and type 'smush' 
+[2021-10-06 06:49:18 : INFO] - Re_Smush_It_Task with attachment ID : 1148, autocreated on : October 06, 2021 06:44:14 
+[2021-10-06 06:49:18 : INFO] - 95 
+[2021-10-06 06:49:20 : INFO] - Backing up the original image - 2021/10/smiling-confident-businesswoman-posing-with-arms-folded-updraft-pre-smush-original.jpg 
+[2021-10-06 06:49:20 : INFO] - Re_Smush_It_Task with attachment ID : 1148, autocreated on : October 06, 2021 06:44:14 
+[2021-10-06 06:49:20 : INFO] - 95 
+[2021-10-06 06:49:21 : INFO] - Re_Smush_It_Task with attachment ID : 1148, autocreated on : October 06, 2021 06:44:14 
+[2021-10-06 06:49:21 : INFO] - 95 
+[2021-10-06 06:49:21 : INFO] - Re_Smush_It_Task with attachment ID : 1148, autocreated on : October 06, 2021 06:44:14 
+[2021-10-06 06:49:21 : INFO] - 95 
+[2021-10-06 06:49:25 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/smiling-confident-businesswoman-posing-with-arms-folded.jpg.El archivo ha sido comprimido de 347.67 KB a 120.92 KB ahorrando un 65.22 por ciento utilizando WP-Optimize 
+[2021-10-06 06:49:25 : INFO] - Completed processing task with ID : 167, and type 'smush' 
+[2021-10-06 06:49:25 : INFO] - Processing task with ID : 168, and type 'smush' 
+[2021-10-06 06:49:25 : INFO] - Re_Smush_It_Task with attachment ID : 1150, autocreated on : October 06, 2021 06:46:16 
+[2021-10-06 06:49:25 : INFO] - 95 
+[2021-10-06 06:49:26 : INFO] - Backing up the original image - 2021/10/smiling-confident-businesswoman-posing-with-arms-folded-1-updraft-pre-smush-original.jpg 
+[2021-10-06 06:49:26 : INFO] - Re_Smush_It_Task with attachment ID : 1150, autocreated on : October 06, 2021 06:46:16 
+[2021-10-06 06:49:26 : INFO] - 95 
+[2021-10-06 06:49:27 : INFO] - Re_Smush_It_Task with attachment ID : 1150, autocreated on : October 06, 2021 06:46:16 
+[2021-10-06 06:49:27 : INFO] - 95 
+[2021-10-06 06:49:27 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/smiling-confident-businesswoman-posing-with-arms-folded-1.jpg.El archivo ha sido comprimido de 67.97 KB a 65.66 KB ahorrando un 3.4 por ciento utilizando WP-Optimize 
+[2021-10-06 06:49:27 : INFO] - Completed processing task with ID : 168, and type 'smush' 
+[2021-10-06 06:49:27 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-06 06:49:27 : INFO] - Semaphore (smush) unlocked 
+[2021-10-06 06:49:27 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-10-06 06:49:27 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-06 06:49:27 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-10-06 06:59:27 : INFO] - 
+ 
+[2021-10-06 06:59:27 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 06:59:27 +0000 on https://prueba.inardek.com 
+[2021-10-06 06:59:27 : INFO] - WP: 5.8.1 
+[2021-10-06 06:59:27 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 06:59:27 : INFO] - MySQL: 8.0.26 
+[2021-10-06 06:59:27 : INFO] - WPLANG: es_CO 
+[2021-10-06 06:59:27 : INFO] - Server: LiteSpeed 
+[2021-10-06 06:59:27 : INFO] - Outbound connections: N 
+[2021-10-06 06:59:27 : INFO] - safe_mode: 0 
+[2021-10-06 06:59:27 : INFO] - max_execution_time: 30 
+[2021-10-06 06:59:27 : INFO] - memory_limit: 128M (used: 70.9M | 73M) 
+[2021-10-06 06:59:27 : INFO] - multisite: N 
+[2021-10-06 06:59:27 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 06:59:27 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-06 17:41:04 : INFO] - Re_Smush_It_Task with attachment ID : 1234, autocreated on : October 06, 2021 05:41:04 
+[2021-10-06 17:41:27 : INFO] - Re_Smush_It_Task with attachment ID : 1235, autocreated on : October 06, 2021 05:41:27 
+[2021-10-06 17:46:36 : INFO] - 
+ 
+[2021-10-06 17:46:36 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 17:46:36 +0000 on https://prueba.inardek.com 
+[2021-10-06 17:46:36 : INFO] - WP: 5.8.1 
+[2021-10-06 17:46:36 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 17:46:36 : INFO] - MySQL: 8.0.26 
+[2021-10-06 17:46:36 : INFO] - WPLANG: es_CO 
+[2021-10-06 17:46:36 : INFO] - Server: LiteSpeed 
+[2021-10-06 17:46:36 : INFO] - Outbound connections: N 
+[2021-10-06 17:46:36 : INFO] - safe_mode: 0 
+[2021-10-06 17:46:36 : INFO] - max_execution_time: 30 
+[2021-10-06 17:46:36 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-06 17:46:36 : INFO] - multisite: N 
+[2021-10-06 17:46:36 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 17:46:36 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-10-06 17:46:36 : INFO] - Set semaphore last lock (smush) time to 2021-10-06 17:46:36 
+[2021-10-06 17:46:36 : INFO] - Semaphore lock (smush) complete 
+[2021-10-06 17:46:36 : INFO] - Processing task with ID : 169, and type 'smush' 
+[2021-10-06 17:46:36 : INFO] - Re_Smush_It_Task with attachment ID : 1234, autocreated on : October 06, 2021 05:41:04 
+[2021-10-06 17:46:36 : INFO] - 95 
+[2021-10-06 17:46:37 : INFO] - Backing up the original image - 2021/10/team-updraft-pre-smush-original.jpg 
+[2021-10-06 17:46:37 : INFO] - Re_Smush_It_Task with attachment ID : 1234, autocreated on : October 06, 2021 05:41:04 
+[2021-10-06 17:46:37 : INFO] - 95 
+[2021-10-06 17:46:38 : INFO] - Re_Smush_It_Task with attachment ID : 1234, autocreated on : October 06, 2021 05:41:04 
+[2021-10-06 17:46:38 : INFO] - 95 
+[2021-10-06 17:46:38 : INFO] - Re_Smush_It_Task with attachment ID : 1234, autocreated on : October 06, 2021 05:41:04 
+[2021-10-06 17:46:38 : INFO] - 95 
+[2021-10-06 17:46:39 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/team.jpg.El archivo ha sido comprimido de 108.36 KB a 108.36 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-06 17:46:40 : INFO] - Completed processing task with ID : 169, and type 'smush' 
+[2021-10-06 17:46:40 : INFO] - Processing task with ID : 170, and type 'smush' 
+[2021-10-06 17:46:40 : INFO] - Re_Smush_It_Task with attachment ID : 1235, autocreated on : October 06, 2021 05:41:27 
+[2021-10-06 17:46:40 : INFO] - 95 
+[2021-10-06 17:46:41 : INFO] - Backing up the original image - 2021/10/team-1-updraft-pre-smush-original.jpg 
+[2021-10-06 17:46:41 : INFO] - Re_Smush_It_Task with attachment ID : 1235, autocreated on : October 06, 2021 05:41:27 
+[2021-10-06 17:46:41 : INFO] - 95 
+[2021-10-06 17:46:41 : INFO] - Re_Smush_It_Task with attachment ID : 1235, autocreated on : October 06, 2021 05:41:27 
+[2021-10-06 17:46:41 : INFO] - 95 
+[2021-10-06 17:46:42 : INFO] - Re_Smush_It_Task with attachment ID : 1235, autocreated on : October 06, 2021 05:41:27 
+[2021-10-06 17:46:42 : INFO] - 95 
+[2021-10-06 17:46:43 : INFO] - Re_Smush_It_Task with attachment ID : 1235, autocreated on : October 06, 2021 05:41:27 
+[2021-10-06 17:46:43 : INFO] - 95 
+[2021-10-06 17:46:45 : INFO] - Re_Smush_It_Task with attachment ID : 1235, autocreated on : October 06, 2021 05:41:27 
+[2021-10-06 17:46:45 : INFO] - 95 
+[2021-10-06 17:46:46 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/team-1.jpg.El archivo ha sido comprimido de 101.76 KB a 97.08 KB ahorrando un 4.6 por ciento utilizando WP-Optimize 
+[2021-10-06 17:46:46 : INFO] - Completed processing task with ID : 170, and type 'smush' 
+[2021-10-06 17:46:46 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-06 17:46:46 : INFO] - Semaphore (smush) unlocked 
+[2021-10-06 17:46:46 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-10-06 17:46:46 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-06 17:46:46 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-10-06 17:56:38 : INFO] - 
+ 
+[2021-10-06 17:56:38 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 17:56:38 +0000 on https://prueba.inardek.com 
+[2021-10-06 17:56:38 : INFO] - WP: 5.8.1 
+[2021-10-06 17:56:38 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-06 17:56:38 : INFO] - MySQL: 8.0.26 
+[2021-10-06 17:56:38 : INFO] - WPLANG: es_CO 
+[2021-10-06 17:56:38 : INFO] - Server: LiteSpeed 
+[2021-10-06 17:56:38 : INFO] - Outbound connections: N 
+[2021-10-06 17:56:38 : INFO] - safe_mode: 0 
+[2021-10-06 17:56:38 : INFO] - max_execution_time: 30 
+[2021-10-06 17:56:38 : INFO] - memory_limit: 128M (used: 71M | 73M) 
+[2021-10-06 17:56:38 : INFO] - multisite: N 
+[2021-10-06 17:56:38 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-06 17:56:38 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-07 18:54:49 : INFO] - Re_Smush_It_Task with attachment ID : 1325, autocreated on : October 07, 2021 06:54:49 
+[2021-10-07 18:55:12 : INFO] - Re_Smush_It_Task with attachment ID : 1326, autocreated on : October 07, 2021 06:55:12 
+[2021-10-07 19:01:49 : INFO] - 
+ 
+[2021-10-07 19:01:49 : INFO] - Header for logs at time:  Thu, 07 Oct 2021 19:01:49 +0000 on https://prueba.inardek.com 
+[2021-10-07 19:01:49 : INFO] - WP: 5.8.1 
+[2021-10-07 19:01:49 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-07 19:01:49 : INFO] - MySQL: 8.0.26 
+[2021-10-07 19:01:49 : INFO] - WPLANG: es_CO 
+[2021-10-07 19:01:49 : INFO] - Server: LiteSpeed 
+[2021-10-07 19:01:49 : INFO] - Outbound connections: N 
+[2021-10-07 19:01:49 : INFO] - safe_mode: 0 
+[2021-10-07 19:01:49 : INFO] - max_execution_time: 30 
+[2021-10-07 19:01:49 : INFO] - memory_limit: 128M (used: 74.3M | 77M) 
+[2021-10-07 19:01:49 : INFO] - multisite: N 
+[2021-10-07 19:01:49 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-07 19:01:49 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-10-07 19:01:49 : INFO] - Set semaphore last lock (smush) time to 2021-10-07 19:01:49 
+[2021-10-07 19:01:49 : INFO] - Semaphore lock (smush) complete 
+[2021-10-07 19:01:49 : INFO] - Processing task with ID : 171, and type 'smush' 
+[2021-10-07 19:01:49 : INFO] - Re_Smush_It_Task with attachment ID : 1325, autocreated on : October 07, 2021 06:54:49 
+[2021-10-07 19:01:49 : INFO] - 95 
+[2021-10-07 19:01:50 : INFO] - Backing up the original image - 2021/10/group-of-people-working-out-business-plan-in-an-office-updraft-pre-smush-original.jpg 
+[2021-10-07 19:01:50 : INFO] - Re_Smush_It_Task with attachment ID : 1325, autocreated on : October 07, 2021 06:54:49 
+[2021-10-07 19:01:50 : INFO] - 95 
+[2021-10-07 19:01:51 : INFO] - Re_Smush_It_Task with attachment ID : 1325, autocreated on : October 07, 2021 06:54:49 
+[2021-10-07 19:01:51 : INFO] - 95 
+[2021-10-07 19:01:52 : INFO] - Re_Smush_It_Task with attachment ID : 1325, autocreated on : October 07, 2021 06:54:49 
+[2021-10-07 19:01:52 : INFO] - 95 
+[2021-10-07 19:01:53 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/group-of-people-working-out-business-plan-in-an-office.jpg.El archivo ha sido comprimido de 124.35 KB a 123.47 KB ahorrando un 0.7 por ciento utilizando WP-Optimize 
+[2021-10-07 19:01:53 : INFO] - Completed processing task with ID : 171, and type 'smush' 
+[2021-10-07 19:01:53 : INFO] - Processing task with ID : 172, and type 'smush' 
+[2021-10-07 19:01:53 : INFO] - Re_Smush_It_Task with attachment ID : 1326, autocreated on : October 07, 2021 06:55:12 
+[2021-10-07 19:01:53 : INFO] - 95 
+[2021-10-07 19:01:55 : INFO] - Backing up the original image - 2021/10/breakup-marriage-couple-with-divorce-certification-updraft-pre-smush-original.jpg 
+[2021-10-07 19:01:55 : INFO] - Re_Smush_It_Task with attachment ID : 1326, autocreated on : October 07, 2021 06:55:12 
+[2021-10-07 19:01:55 : INFO] - 95 
+[2021-10-07 19:01:55 : INFO] - Re_Smush_It_Task with attachment ID : 1326, autocreated on : October 07, 2021 06:55:12 
+[2021-10-07 19:01:55 : INFO] - 95 
+[2021-10-07 19:01:56 : INFO] - Re_Smush_It_Task with attachment ID : 1326, autocreated on : October 07, 2021 06:55:12 
+[2021-10-07 19:01:56 : INFO] - 95 
+[2021-10-07 19:01:57 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/breakup-marriage-couple-with-divorce-certification.jpg.El archivo ha sido comprimido de 61.07 KB a 61.07 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-07 19:01:57 : INFO] - Completed processing task with ID : 172, and type 'smush' 
+[2021-10-07 19:01:57 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-07 19:01:57 : INFO] - Semaphore (smush) unlocked 
+[2021-10-07 19:01:57 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-10-07 19:01:57 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-07 19:01:57 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-10-07 19:11:54 : INFO] - 
+ 
+[2021-10-07 19:11:54 : INFO] - Header for logs at time:  Thu, 07 Oct 2021 19:11:54 +0000 on https://prueba.inardek.com 
+[2021-10-07 19:11:54 : INFO] - WP: 5.8.1 
+[2021-10-07 19:11:54 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-07 19:11:54 : INFO] - MySQL: 8.0.26 
+[2021-10-07 19:11:54 : INFO] - WPLANG: es_CO 
+[2021-10-07 19:11:54 : INFO] - Server: LiteSpeed 
+[2021-10-07 19:11:54 : INFO] - Outbound connections: N 
+[2021-10-07 19:11:54 : INFO] - safe_mode: 0 
+[2021-10-07 19:11:54 : INFO] - max_execution_time: 30 
+[2021-10-07 19:11:54 : INFO] - memory_limit: 128M (used: 75.1M | 77M) 
+[2021-10-07 19:11:54 : INFO] - multisite: N 
+[2021-10-07 19:11:54 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-07 19:11:54 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-07 22:53:19 : INFO] - Re_Smush_It_Task with attachment ID : 1376, autocreated on : October 07, 2021 10:53:19 
+[2021-10-07 22:54:26 : INFO] - Re_Smush_It_Task with attachment ID : 1378, autocreated on : October 07, 2021 10:54:26 
+[2021-10-07 23:10:31 : INFO] - 
+ 
+[2021-10-07 23:10:31 : INFO] - Header for logs at time:  Thu, 07 Oct 2021 23:10:31 +0000 on http://prueba.inardek.com 
+[2021-10-07 23:10:31 : INFO] - WP: 5.8.1 
+[2021-10-07 23:10:31 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-07 23:10:31 : INFO] - MySQL: 8.0.26 
+[2021-10-07 23:10:31 : INFO] - WPLANG: es_CO 
+[2021-10-07 23:10:31 : INFO] - Server: LiteSpeed 
+[2021-10-07 23:10:31 : INFO] - Outbound connections: N 
+[2021-10-07 23:10:31 : INFO] - safe_mode: 0 
+[2021-10-07 23:10:31 : INFO] - max_execution_time: 30 
+[2021-10-07 23:10:31 : INFO] - memory_limit: 128M (used: 75.4M | 77M) 
+[2021-10-07 23:10:31 : INFO] - multisite: N 
+[2021-10-07 23:10:31 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-07 23:10:31 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-10-07 23:10:31 : INFO] - Set semaphore last lock (smush) time to 2021-10-07 23:10:31 
+[2021-10-07 23:10:31 : INFO] - Semaphore lock (smush) complete 
+[2021-10-07 23:10:31 : INFO] - Processing task with ID : 173, and type 'smush' 
+[2021-10-07 23:10:31 : INFO] - Re_Smush_It_Task with attachment ID : 1376, autocreated on : October 07, 2021 10:53:19 
+[2021-10-07 23:10:31 : INFO] - 95 
+[2021-10-07 23:10:32 : INFO] - Backing up the original image - 2021/09/cropped-cropped-cropped-logo-updraft-pre-smush-original.png 
+[2021-10-07 23:10:32 : INFO] - Re_Smush_It_Task with attachment ID : 1376, autocreated on : October 07, 2021 10:53:19 
+[2021-10-07 23:10:32 : INFO] - 95 
+[2021-10-07 23:10:33 : INFO] - Re_Smush_It_Task with attachment ID : 1376, autocreated on : October 07, 2021 10:53:19 
+[2021-10-07 23:10:33 : INFO] - 95 
+[2021-10-07 23:10:34 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/09/cropped-cropped-cropped-logo.png.El archivo ha sido comprimido de 43.44 KB a 43.44 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-07 23:10:34 : INFO] - Completed processing task with ID : 173, and type 'smush' 
+[2021-10-07 23:10:34 : INFO] - Processing task with ID : 174, and type 'smush' 
+[2021-10-07 23:10:34 : INFO] - Re_Smush_It_Task with attachment ID : 1378, autocreated on : October 07, 2021 10:54:26 
+[2021-10-07 23:10:34 : INFO] - 95 
+[2021-10-07 23:10:35 : INFO] - Backing up the original image - 2021/09/cropped-cropped-cropped-cropped-logo-updraft-pre-smush-original.png 
+[2021-10-07 23:10:35 : INFO] - Re_Smush_It_Task with attachment ID : 1378, autocreated on : October 07, 2021 10:54:26 
+[2021-10-07 23:10:35 : INFO] - 95 
+[2021-10-07 23:10:36 : INFO] - Re_Smush_It_Task with attachment ID : 1378, autocreated on : October 07, 2021 10:54:26 
+[2021-10-07 23:10:36 : INFO] - 95 
+[2021-10-07 23:10:36 : INFO] - Re_Smush_It_Task with attachment ID : 1378, autocreated on : October 07, 2021 10:54:26 
+[2021-10-07 23:10:36 : INFO] - 95 
+[2021-10-07 23:10:37 : INFO] - Re_Smush_It_Task with attachment ID : 1378, autocreated on : October 07, 2021 10:54:26 
+[2021-10-07 23:10:37 : INFO] - 95 
+[2021-10-07 23:10:38 : INFO] - Re_Smush_It_Task with attachment ID : 1378, autocreated on : October 07, 2021 10:54:26 
+[2021-10-07 23:10:38 : INFO] - 95 
+[2021-10-07 23:10:39 : INFO] - Re_Smush_It_Task with attachment ID : 1378, autocreated on : October 07, 2021 10:54:26 
+[2021-10-07 23:10:39 : INFO] - 95 
+[2021-10-07 23:10:39 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/09/cropped-cropped-cropped-cropped-logo.png.El archivo ha sido comprimido de 102.86 KB a 46.23 KB ahorrando un 55.06 por ciento utilizando WP-Optimize 
+[2021-10-07 23:10:39 : INFO] - Completed processing task with ID : 174, and type 'smush' 
+[2021-10-07 23:10:39 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-07 23:10:39 : INFO] - Semaphore (smush) unlocked 
+[2021-10-07 23:10:39 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-10-07 23:10:39 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-07 23:10:39 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-10-08 00:27:02 : INFO] - 
+ 
+[2021-10-08 00:27:02 : INFO] - Header for logs at time:  Fri, 08 Oct 2021 00:27:02 +0000 on http://prueba.inardek.com 
+[2021-10-08 00:27:02 : INFO] - WP: 5.8.1 
+[2021-10-08 00:27:02 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-08 00:27:02 : INFO] - MySQL: 8.0.26 
+[2021-10-08 00:27:02 : INFO] - WPLANG: es_CO 
+[2021-10-08 00:27:02 : INFO] - Server: LiteSpeed 
+[2021-10-08 00:27:02 : INFO] - Outbound connections: N 
+[2021-10-08 00:27:02 : INFO] - safe_mode: 0 
+[2021-10-08 00:27:02 : INFO] - max_execution_time: 80 
+[2021-10-08 00:27:02 : INFO] - memory_limit: 128M (used: 75.4M | 77M) 
+[2021-10-08 00:27:02 : INFO] - multisite: N 
+[2021-10-08 00:27:02 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-08 00:27:02 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-15 04:38:09 : INFO] - Re_Smush_It_Task with attachment ID : 1425, autocreated on : October 15, 2021 04:38:09 
+[2021-10-15 04:38:12 : INFO] - Re_Smush_It_Task with attachment ID : 1426, autocreated on : October 15, 2021 04:38:12 
+[2021-10-15 04:38:15 : INFO] - Re_Smush_It_Task with attachment ID : 1427, autocreated on : October 15, 2021 04:38:15 
+[2021-10-15 04:38:17 : INFO] - Re_Smush_It_Task with attachment ID : 1428, autocreated on : October 15, 2021 04:38:17 
+[2021-10-15 04:38:20 : INFO] - Re_Smush_It_Task with attachment ID : 1429, autocreated on : October 15, 2021 04:38:20 
+[2021-10-15 04:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 1430, autocreated on : October 15, 2021 04:38:22 
+[2021-10-15 04:38:25 : INFO] - Re_Smush_It_Task with attachment ID : 1431, autocreated on : October 15, 2021 04:38:25 
+[2021-10-15 04:43:10 : INFO] - 
+ 
+[2021-10-15 04:43:10 : INFO] - Header for logs at time:  Fri, 15 Oct 2021 04:43:10 +0000 on https://prueba.inardek.com 
+[2021-10-15 04:43:10 : INFO] - WP: 5.8.1 
+[2021-10-15 04:43:10 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-15 04:43:10 : INFO] - MySQL: 8.0.26 
+[2021-10-15 04:43:10 : INFO] - WPLANG: es_CO 
+[2021-10-15 04:43:10 : INFO] - Server: LiteSpeed 
+[2021-10-15 04:43:10 : INFO] - Outbound connections: N 
+[2021-10-15 04:43:10 : INFO] - safe_mode: 0 
+[2021-10-15 04:43:10 : INFO] - max_execution_time: 30 
+[2021-10-15 04:43:10 : INFO] - memory_limit: 128M (used: 75.8M | 77M) 
+[2021-10-15 04:43:10 : INFO] - multisite: N 
+[2021-10-15 04:43:10 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-15 04:43:10 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2021-10-15 04:43:10 : INFO] - Set semaphore last lock (smush) time to 2021-10-15 04:43:10 
+[2021-10-15 04:43:10 : INFO] - Semaphore lock (smush) complete 
+[2021-10-15 04:43:10 : INFO] - Processing task with ID : 175, and type 'smush' 
+[2021-10-15 04:43:10 : INFO] - Re_Smush_It_Task with attachment ID : 1425, autocreated on : October 15, 2021 04:38:09 
+[2021-10-15 04:43:10 : INFO] - 95 
+[2021-10-15 04:43:11 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-06-at-12.46.36-PM-3-updraft-pre-smush-original.jpeg 
+[2021-10-15 04:43:11 : INFO] - Re_Smush_It_Task with attachment ID : 1425, autocreated on : October 15, 2021 04:38:09 
+[2021-10-15 04:43:11 : INFO] - 95 
+[2021-10-15 04:43:11 : INFO] - Re_Smush_It_Task with attachment ID : 1425, autocreated on : October 15, 2021 04:38:09 
+[2021-10-15 04:43:11 : INFO] - 95 
+[2021-10-15 04:43:12 : INFO] - Re_Smush_It_Task with attachment ID : 1425, autocreated on : October 15, 2021 04:38:09 
+[2021-10-15 04:43:12 : INFO] - 95 
+[2021-10-15 04:43:13 : INFO] - Re_Smush_It_Task with attachment ID : 1425, autocreated on : October 15, 2021 04:38:09 
+[2021-10-15 04:43:13 : INFO] - 95 
+[2021-10-15 04:43:14 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-06-at-12.46.36-PM-3.jpeg.El archivo ha sido comprimido de 47.33 KB a 47.33 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-15 04:43:14 : INFO] - Completed processing task with ID : 175, and type 'smush' 
+[2021-10-15 04:43:14 : INFO] - Processing task with ID : 176, and type 'smush' 
+[2021-10-15 04:43:14 : INFO] - Re_Smush_It_Task with attachment ID : 1426, autocreated on : October 15, 2021 04:38:12 
+[2021-10-15 04:43:14 : INFO] - 95 
+[2021-10-15 04:43:15 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-06-at-12.46.36-PM-4-updraft-pre-smush-original.jpeg 
+[2021-10-15 04:43:15 : INFO] - Re_Smush_It_Task with attachment ID : 1426, autocreated on : October 15, 2021 04:38:12 
+[2021-10-15 04:43:15 : INFO] - 95 
+[2021-10-15 04:43:15 : INFO] - Re_Smush_It_Task with attachment ID : 1426, autocreated on : October 15, 2021 04:38:12 
+[2021-10-15 04:43:15 : INFO] - 95 
+[2021-10-15 04:43:16 : INFO] - Re_Smush_It_Task with attachment ID : 1426, autocreated on : October 15, 2021 04:38:12 
+[2021-10-15 04:43:16 : INFO] - 95 
+[2021-10-15 04:43:17 : INFO] - Re_Smush_It_Task with attachment ID : 1426, autocreated on : October 15, 2021 04:38:12 
+[2021-10-15 04:43:17 : INFO] - 95 
+[2021-10-15 04:43:18 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-06-at-12.46.36-PM-4.jpeg.El archivo ha sido comprimido de 106.29 KB a 102.19 KB ahorrando un 3.86 por ciento utilizando WP-Optimize 
+[2021-10-15 04:43:18 : INFO] - Completed processing task with ID : 176, and type 'smush' 
+[2021-10-15 04:43:18 : INFO] - Processing task with ID : 177, and type 'smush' 
+[2021-10-15 04:43:18 : INFO] - Re_Smush_It_Task with attachment ID : 1427, autocreated on : October 15, 2021 04:38:15 
+[2021-10-15 04:43:18 : INFO] - 95 
+[2021-10-15 04:43:19 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-06-at-12.46.35-PM-updraft-pre-smush-original.jpeg 
+[2021-10-15 04:43:19 : INFO] - Re_Smush_It_Task with attachment ID : 1427, autocreated on : October 15, 2021 04:38:15 
+[2021-10-15 04:43:19 : INFO] - 95 
+[2021-10-15 04:43:20 : INFO] - Re_Smush_It_Task with attachment ID : 1427, autocreated on : October 15, 2021 04:38:15 
+[2021-10-15 04:43:20 : INFO] - 95 
+[2021-10-15 04:43:21 : INFO] - Re_Smush_It_Task with attachment ID : 1427, autocreated on : October 15, 2021 04:38:15 
+[2021-10-15 04:43:21 : INFO] - 95 
+[2021-10-15 04:43:22 : INFO] - Re_Smush_It_Task with attachment ID : 1427, autocreated on : October 15, 2021 04:38:15 
+[2021-10-15 04:43:22 : INFO] - 95 
+[2021-10-15 04:43:23 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-06-at-12.46.35-PM.jpeg.El archivo ha sido comprimido de 60.81 KB a 60.81 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-15 04:43:23 : INFO] - Completed processing task with ID : 177, and type 'smush' 
+[2021-10-15 04:43:23 : INFO] - Processing task with ID : 178, and type 'smush' 
+[2021-10-15 04:43:23 : INFO] - Re_Smush_It_Task with attachment ID : 1428, autocreated on : October 15, 2021 04:38:17 
+[2021-10-15 04:43:23 : INFO] - 95 
+[2021-10-15 04:43:24 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-06-at-12.46.35-PM-1-updraft-pre-smush-original.jpeg 
+[2021-10-15 04:43:24 : INFO] - Re_Smush_It_Task with attachment ID : 1428, autocreated on : October 15, 2021 04:38:17 
+[2021-10-15 04:43:24 : INFO] - 95 
+[2021-10-15 04:43:25 : INFO] - Re_Smush_It_Task with attachment ID : 1428, autocreated on : October 15, 2021 04:38:17 
+[2021-10-15 04:43:25 : INFO] - 95 
+[2021-10-15 04:43:26 : INFO] - Re_Smush_It_Task with attachment ID : 1428, autocreated on : October 15, 2021 04:38:17 
+[2021-10-15 04:43:26 : INFO] - 95 
+[2021-10-15 04:43:27 : INFO] - Re_Smush_It_Task with attachment ID : 1428, autocreated on : October 15, 2021 04:38:17 
+[2021-10-15 04:43:27 : INFO] - 95 
+[2021-10-15 04:43:28 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-06-at-12.46.35-PM-1.jpeg.El archivo ha sido comprimido de 64.77 KB a 64.34 KB ahorrando un 0.66 por ciento utilizando WP-Optimize 
+[2021-10-15 04:43:28 : INFO] - Completed processing task with ID : 178, and type 'smush' 
+[2021-10-15 04:43:28 : INFO] - Processing task with ID : 179, and type 'smush' 
+[2021-10-15 04:43:28 : INFO] - Re_Smush_It_Task with attachment ID : 1429, autocreated on : October 15, 2021 04:38:20 
+[2021-10-15 04:43:28 : INFO] - 95 
+[2021-10-15 04:43:29 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-06-at-12.46.36-PM-updraft-pre-smush-original.jpeg 
+[2021-10-15 04:43:29 : INFO] - Re_Smush_It_Task with attachment ID : 1429, autocreated on : October 15, 2021 04:38:20 
+[2021-10-15 04:43:29 : INFO] - 95 
+[2021-10-15 04:43:29 : INFO] - Re_Smush_It_Task with attachment ID : 1429, autocreated on : October 15, 2021 04:38:20 
+[2021-10-15 04:43:29 : INFO] - 95 
+[2021-10-15 04:43:30 : INFO] - Re_Smush_It_Task with attachment ID : 1429, autocreated on : October 15, 2021 04:38:20 
+[2021-10-15 04:43:30 : INFO] - 95 
+[2021-10-15 04:43:31 : INFO] - Re_Smush_It_Task with attachment ID : 1429, autocreated on : October 15, 2021 04:38:20 
+[2021-10-15 04:43:31 : INFO] - 95 
+[2021-10-15 04:43:32 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-06-at-12.46.36-PM.jpeg.El archivo ha sido comprimido de 57.81 KB a 57.81 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-15 04:43:32 : INFO] - Completed processing task with ID : 179, and type 'smush' 
+[2021-10-15 04:43:32 : INFO] - Set semaphore last lock (smush) time to 2021-10-15 04:43:32 
+[2021-10-15 04:43:32 : INFO] - Processing task with ID : 180, and type 'smush' 
+[2021-10-15 04:43:32 : INFO] - Re_Smush_It_Task with attachment ID : 1430, autocreated on : October 15, 2021 04:38:22 
+[2021-10-15 04:43:32 : INFO] - 95 
+[2021-10-15 04:43:33 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-06-at-12.46.36-PM-1-updraft-pre-smush-original.jpeg 
+[2021-10-15 04:43:33 : INFO] - Re_Smush_It_Task with attachment ID : 1430, autocreated on : October 15, 2021 04:38:22 
+[2021-10-15 04:43:33 : INFO] - 95 
+[2021-10-15 04:43:34 : INFO] - Re_Smush_It_Task with attachment ID : 1430, autocreated on : October 15, 2021 04:38:22 
+[2021-10-15 04:43:34 : INFO] - 95 
+[2021-10-15 04:43:35 : INFO] - Re_Smush_It_Task with attachment ID : 1430, autocreated on : October 15, 2021 04:38:22 
+[2021-10-15 04:43:35 : INFO] - 95 
+[2021-10-15 04:43:35 : INFO] - Re_Smush_It_Task with attachment ID : 1430, autocreated on : October 15, 2021 04:38:22 
+[2021-10-15 04:43:35 : INFO] - 95 
+[2021-10-15 04:43:36 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-06-at-12.46.36-PM-1.jpeg.El archivo ha sido comprimido de 57.98 KB a 57.98 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-15 04:43:36 : INFO] - Completed processing task with ID : 180, and type 'smush' 
+[2021-10-15 04:43:36 : INFO] - Processing task with ID : 181, and type 'smush' 
+[2021-10-15 04:43:36 : INFO] - Re_Smush_It_Task with attachment ID : 1431, autocreated on : October 15, 2021 04:38:25 
+[2021-10-15 04:43:36 : INFO] - 95 
+[2021-10-15 04:43:37 : INFO] - Backing up the original image - 2021/10/WhatsApp-Image-2021-10-06-at-12.46.36-PM-2-updraft-pre-smush-original.jpeg 
+[2021-10-15 04:43:37 : INFO] - Re_Smush_It_Task with attachment ID : 1431, autocreated on : October 15, 2021 04:38:25 
+[2021-10-15 04:43:37 : INFO] - 95 
+[2021-10-15 04:43:38 : INFO] - Re_Smush_It_Task with attachment ID : 1431, autocreated on : October 15, 2021 04:38:25 
+[2021-10-15 04:43:38 : INFO] - 95 
+[2021-10-15 04:43:39 : INFO] - Re_Smush_It_Task with attachment ID : 1431, autocreated on : October 15, 2021 04:38:25 
+[2021-10-15 04:43:39 : INFO] - 95 
+[2021-10-15 04:43:39 : INFO] - Re_Smush_It_Task with attachment ID : 1431, autocreated on : October 15, 2021 04:38:25 
+[2021-10-15 04:43:39 : INFO] - 95 
+[2021-10-15 04:43:40 : INFO] - Successfully optimized the image - /home/inardekc/public_html/prueba/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-06-at-12.46.36-PM-2.jpeg.El archivo ha sido comprimido de 50.96 KB a 50.96 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-10-15 04:43:40 : INFO] - Completed processing task with ID : 181, and type 'smush' 
+[2021-10-15 04:43:40 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-15 04:43:40 : INFO] - Semaphore (smush) unlocked 
+[2021-10-15 04:43:40 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2021-10-15 04:43:40 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-15 04:43:40 : INFO] - Cleaning up tasks of type (smush). A total of 7 tasks will be deleted. 
+[2021-10-15 04:53:25 : INFO] - 
+ 
+[2021-10-15 04:53:25 : INFO] - Header for logs at time:  Fri, 15 Oct 2021 04:53:25 +0000 on https://prueba.inardek.com 
+[2021-10-15 04:53:25 : INFO] - WP: 5.8.1 
+[2021-10-15 04:53:25 : INFO] - PHP: 7.3.31 (litespeed, Linux jami.colombiahosting.com.co 4.18.0-147.8.1.el8.lve.1.x86_64 #1 SMP Mon Jun 29 09:55:57 EDT 2020 x86_64) 
+[2021-10-15 04:53:25 : INFO] - MySQL: 8.0.26 
+[2021-10-15 04:53:25 : INFO] - WPLANG: es_CO 
+[2021-10-15 04:53:25 : INFO] - Server: LiteSpeed 
+[2021-10-15 04:53:25 : INFO] - Outbound connections: N 
+[2021-10-15 04:53:25 : INFO] - safe_mode: 0 
+[2021-10-15 04:53:25 : INFO] - max_execution_time: 30 
+[2021-10-15 04:53:25 : INFO] - memory_limit: 128M (used: 75.8M | 77M) 
+[2021-10-15 04:53:25 : INFO] - multisite: N 
+[2021-10-15 04:53:25 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-10-15 04:53:25 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
